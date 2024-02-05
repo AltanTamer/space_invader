@@ -163,7 +163,7 @@ public class MainFrame extends JFrame implements ActionListener {
 		});
 		about.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
-				JOptionPane.showMessageDialog(MainFrame.this, "Emre Altan Tamer CSE 212 \n20200702046 School ID", "About", JOptionPane.INFORMATION_MESSAGE);
+				JOptionPane.showMessageDialog(MainFrame.this, ":D", "About", JOptionPane.INFORMATION_MESSAGE);
 			}
 			
 		});
